@@ -6,30 +6,10 @@
 ## 🖥 Devices & Environment
 
 **Desktop PC #1 (Main / Windows)**  
-Ryzen 7 9800X3D / RTX 5080 / 32GB RAM  
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![AMD Ryzen 7](https://img.shields.io/badge/Ryzen_7-ED1C24?logo=amd&logoColor=white)
-![RTX 5080](https://img.shields.io/badge/RTX_5080-76B900?logo=nvidia&logoColor=white)
-![32GB RAM](https://img.shields.io/badge/RAM-32GB-555555)
-
-**Desktop PC #2 (HomeServer / Linux)**  
-Intel Core i7-9700K / 64GB RAM  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Intel i7-9700K](https://img.shields.io/badge/Intel_i7_9700K-0071C5?logo=intel&logoColor=white)
-![64GB RAM](https://img.shields.io/badge/RAM-64GB-555555)
-
-**ThinkPad X1 Nano Gen1 (Sub / Linux)**  
-Intel Core i7-1165G / 16GB RAM  
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
-![ThinkPad](https://img.shields.io/badge/ThinkPad-EE2624?logo=lenovo&logoColor=white)
-![16GB RAM](https://img.shields.io/badge/RAM-16GB-555555)
-
-**MacBook Pro 14" (Sub / macOS)**  
-M1 Pro / 16GB RAM  
-![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
-![MacBook_Pro](https://img.shields.io/badge/MacBook_Pro-999999?logo=apple&logoColor=white)
-![16GB RAM](https://img.shields.io/badge/RAM-16GB-555555)
-
+- Desktop PC (Windows / Ryzen 7 9800X3D / RTX5080 / 32GB)
+- Desktop PC (Linux / Intel core i7 9700K / 64GB)
+- Thinkpad X1 nano gen1 (Linux / Intel core i7 1165G / 16GB)
+- MacBook Pro 14 (MacOS / M1 PRO / 16GB)
 
 ## 🛠 Tech Stack
 
