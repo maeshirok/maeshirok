@@ -1,6 +1,6 @@
 ## 👋 About Me
 - 沖縄在住のクラウド / Webエンジニア
-- 本職はAzureベースのBtoB向けSaaS開発・運用がメイン
+- 本職はAzureベースのBtoB向けSaaS開発・運用がメインです。
 - 趣味はゲーム、ガジェット、ものづくり、カラオケ、Linuxいじり、Home Server運用
 
 ## 🖥 Devices & Environment
@@ -17,14 +17,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -35,4 +32,3 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white)
 
 ![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-
