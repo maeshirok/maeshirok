@@ -5,7 +5,6 @@
 
 ## 🖥 Devices & Environment
 
-**Desktop PC #1 (Main / Windows)**  
 - Desktop PC (Windows / Ryzen 7 9800X3D / RTX5080 / 32GB)
 - Desktop PC (Linux / Intel core i7 9700K / 64GB)
 - Thinkpad X1 nano gen1 (Linux / Intel core i7 1165G / 16GB)
