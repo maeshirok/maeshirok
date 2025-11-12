@@ -1,10 +1,11 @@
 ## 👋 About Me
-- 沖縄在住のクラウド / Webエンジニア
-- 現在はAzureベースのBtoB向けSaaS開発・運用がメインです。
-- 趣味はゲーム、ガジェット、ものづくり、カラオケ、Linuxいじり、Home Server運用
+初めまして、沖縄在住のクラウド / Webエンジニアです。  
+本職では主にAzureベースのBtoB向けSaaS開発・運用と組織内への生成AIを用いた開発標準化・利活用を行っています。  
+趣味はゲーム、ガジェット、ものづくり、カラオケ、Home Server運用
 
 ## 🖥 Devices & Environment
 
+- Phone (Android / Galaxy S24)
 - Desktop PC (Windows / Ryzen 7 9800X3D / RTX5080 / 32GB)
 - Desktop PC (Linux / Intel core i7 9700K / 64GB)
 - Thinkpad X1 nano gen1 (Linux / Intel core i7 1165G / 16GB)
